@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.affirm.takehome"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:6:3-65
+11-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:6:20-62
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:7:3-77
+12-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:7:20-74
+13
+14    <application
+14-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:9:3-25:17
+15        android:allowBackup="true"
+15-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:10:7-33
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\aa6c96aaba8819cb20a0f84bd4c87c95\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+17-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:16:7-32
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:11:7-41
+20        android:label="@string/app_name"
+20-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:12:7-39
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:13:7-52
+22        android:supportsRtl="true"
+22-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:14:7-33
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:15:7-38
+25        <activity android:name="com.affirm.takehome.MainActivity" >
+25-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:18:5-24:16
+25-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:18:15-43
+26            <intent-filter>
+26-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:19:7-23:23
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:20:9-61
+27-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:20:17-58
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:22:9-69
+29-->C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:22:19-66
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\9dad08a287b99c30c28e214b9f8d2b1e\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+34            android:name="com.squareup.picasso.PicassoProvider"
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\9dad08a287b99c30c28e214b9f8d2b1e\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+35            android:authorities="com.affirm.takehome.com.squareup.picasso"
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\9dad08a287b99c30c28e214b9f8d2b1e\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+36            android:exported="false" />
+36-->[com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\9dad08a287b99c30c28e214b9f8d2b1e\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+37
+38        <activity
+38-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\0c6e6dc2521ffbc5621219994edb510a\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+39            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+39-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\0c6e6dc2521ffbc5621219994edb510a\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+40            android:exported="false"
+40-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\0c6e6dc2521ffbc5621219994edb510a\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+41            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+41-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\0c6e6dc2521ffbc5621219994edb510a\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+42
+43        <meta-data
+43-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\88cabe769fe2672406820d51838e8984\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+44            android:name="com.google.android.gms.version"
+44-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\88cabe769fe2672406820d51838e8984\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+45            android:value="@integer/google_play_services_version" />
+45-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\88cabe769fe2672406820d51838e8984\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+46    </application>
+47
+48</manifest>
