@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\599a47cc4ee3c35328dba6b40776f416\transformed\jetified-viewbinding-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\588601a2fc654f5a0258d869d4a00989\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Brandon\.gradle\caches\transforms-3\a03065907f8e0a934c976c4af6e10b7f\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\589fbaee48d633b54914bbee0e00c89d\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\8bde9cfeb0cea2cd3d2e46d3d9ed7454\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\be6f33ea3f33d34f779b98e6c0759614\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\b82ee9b69bae6b647f040ebba493a10d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\d1dfc6b2dce72e74d67d0c2f8101fc05\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\e6a221b46896733c1de8276118cb30fc\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\fd76e1ea27c4e4649aa29fd5bd6a23c2\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\659dcb4a7574af2fe21adbf0f0bf9597\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\fbd2469f7438acfa393d5807f8360882\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Brandon\.gradle\caches\transforms-3\d8cc4b7c78ea96a5570c1d5fc0791db1\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Brandon\.gradle\caches\transforms-3\c497ffa8aec9311d424eb7057232ce98\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\a55f88c3f296c8b29870b38365bf602d\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0f3eea59c0801cd9d1976c5c5affb611\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\4243d0e1f392af02c47d929c2bc6883b\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\73f732ac19b7da14d2711c157de810c0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f46ca73b3b52ea4ea66752a56d9be51d\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\b1ea8a4033a559e289626cba01e031cc\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\a2c330211aa19b407ed330bd29f95dbd\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f618875a63402e342366ec20bb4067ff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\3356941df8f0e1513845d92ec5778629\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Brandon\.gradle\caches\transforms-3\1d47b295e451756b5905a0af250c57ae\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\dcd3c8c23703819f6157a770e05f02d5\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Brandon\.gradle\caches\transforms-3\c8e2be1e4f4a0bdc4ae81324a0cdebbc\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\58fa80cb2d948b2fca625c815a231b77\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\376495f8abe23921ce529e470d580370\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3699b00d347d0f41f59f20829034974a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\93c6c5bfd6f0f94128a2002732b93d79\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\f75cd419a3966be529e3dd24c2b343f5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3ea4b32ed47f1db2338d61a9d724f441\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\77bb0ee330e7f10f83b35d71367125a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\fee8d4a1f71c2be22528eff30a37bf02\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f6864b6cc65c1c0aa57d94376f0c3a5d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\5b66ba421b5e0355e0bd17b2121e01f2\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\218f9a4ab9d03806da1e2cbce2b79862\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\c241cef3df823aa0dca352edf3ab15f1\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\1b0603599e2764e3a487d34acaec9775\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\47e6e22e92760cb37db8d7c5ec0627c2\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\05463d6ddb68f145927c7940a4bc2dd3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\7e4fd39ea714fb8a86e22ea62aa7f5c1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\d956747bf361fb94b8647577dd4a2622\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f13b6da46dbfbaf92e0c1505c8ad5e17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\024c00731aba70d6d5fae4a06f85bba6\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0014a0955407653a5124a4eb18b9b566\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\ddffabcff20484559420db7505630bdf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\838883787eb5efe27310906aeab81f12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\0e334c2a253cd84f2d27a1db3eb23810\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f5d95c0f6240709d6b69141209e17a15\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\9cb769cdce872cd0a715380a723c14dc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3fa7e03dc9442cf15362765535ec16a1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d019a1adef7f9a5d86a65f9a777292ff\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d65214bd7d421aa5233820bf8c449a56\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:9:5-30:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Brandon\.gradle\caches\transforms-3\d8cc4b7c78ea96a5570c1d5fc0791db1\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Brandon\.gradle\caches\transforms-3\d8cc4b7c78ea96a5570c1d5fc0791db1\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Brandon\.gradle\caches\transforms-3\c497ffa8aec9311d424eb7057232ce98\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Brandon\.gradle\caches\transforms-3\c497ffa8aec9311d424eb7057232ce98\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\b1ea8a4033a559e289626cba01e031cc\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\b1ea8a4033a559e289626cba01e031cc\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f618875a63402e342366ec20bb4067ff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f618875a63402e342366ec20bb4067ff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\3356941df8f0e1513845d92ec5778629\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\3356941df8f0e1513845d92ec5778629\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f13b6da46dbfbaf92e0c1505c8ad5e17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f13b6da46dbfbaf92e0c1505c8ad5e17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:13:9-41
+	android:debuggable
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:11:9-34
+	tools:ignore
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:17:9-42
+	android:roundIcon
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.affirm.takehome.favorites.FavoritesActivity
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:18:9-22:59
+	android:label
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:21:13-61
+	android:exported
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:19:13-56
+activity#com.affirm.takehome.MainActivity
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\599a47cc4ee3c35328dba6b40776f416\transformed\jetified-viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\599a47cc4ee3c35328dba6b40776f416\transformed\jetified-viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\588601a2fc654f5a0258d869d4a00989\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\588601a2fc654f5a0258d869d4a00989\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Brandon\.gradle\caches\transforms-3\a03065907f8e0a934c976c4af6e10b7f\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Brandon\.gradle\caches\transforms-3\a03065907f8e0a934c976c4af6e10b7f\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\589fbaee48d633b54914bbee0e00c89d\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\589fbaee48d633b54914bbee0e00c89d\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\8bde9cfeb0cea2cd3d2e46d3d9ed7454\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\8bde9cfeb0cea2cd3d2e46d3d9ed7454\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\be6f33ea3f33d34f779b98e6c0759614\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\be6f33ea3f33d34f779b98e6c0759614\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\b82ee9b69bae6b647f040ebba493a10d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\b82ee9b69bae6b647f040ebba493a10d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\d1dfc6b2dce72e74d67d0c2f8101fc05\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\d1dfc6b2dce72e74d67d0c2f8101fc05\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\e6a221b46896733c1de8276118cb30fc\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\e6a221b46896733c1de8276118cb30fc\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\fd76e1ea27c4e4649aa29fd5bd6a23c2\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\fd76e1ea27c4e4649aa29fd5bd6a23c2\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\659dcb4a7574af2fe21adbf0f0bf9597\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\659dcb4a7574af2fe21adbf0f0bf9597\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\fbd2469f7438acfa393d5807f8360882\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\fbd2469f7438acfa393d5807f8360882\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Brandon\.gradle\caches\transforms-3\d8cc4b7c78ea96a5570c1d5fc0791db1\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Brandon\.gradle\caches\transforms-3\d8cc4b7c78ea96a5570c1d5fc0791db1\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Brandon\.gradle\caches\transforms-3\c497ffa8aec9311d424eb7057232ce98\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Brandon\.gradle\caches\transforms-3\c497ffa8aec9311d424eb7057232ce98\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\a55f88c3f296c8b29870b38365bf602d\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\a55f88c3f296c8b29870b38365bf602d\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0f3eea59c0801cd9d1976c5c5affb611\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0f3eea59c0801cd9d1976c5c5affb611\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\4243d0e1f392af02c47d929c2bc6883b\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Brandon\.gradle\caches\transforms-3\4243d0e1f392af02c47d929c2bc6883b\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\73f732ac19b7da14d2711c157de810c0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\73f732ac19b7da14d2711c157de810c0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f46ca73b3b52ea4ea66752a56d9be51d\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f46ca73b3b52ea4ea66752a56d9be51d\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\b1ea8a4033a559e289626cba01e031cc\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\b1ea8a4033a559e289626cba01e031cc\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\a2c330211aa19b407ed330bd29f95dbd\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\a2c330211aa19b407ed330bd29f95dbd\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f618875a63402e342366ec20bb4067ff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f618875a63402e342366ec20bb4067ff\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\3356941df8f0e1513845d92ec5778629\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Brandon\.gradle\caches\transforms-3\3356941df8f0e1513845d92ec5778629\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Brandon\.gradle\caches\transforms-3\1d47b295e451756b5905a0af250c57ae\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Brandon\.gradle\caches\transforms-3\1d47b295e451756b5905a0af250c57ae\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\dcd3c8c23703819f6157a770e05f02d5\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\dcd3c8c23703819f6157a770e05f02d5\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Brandon\.gradle\caches\transforms-3\c8e2be1e4f4a0bdc4ae81324a0cdebbc\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Brandon\.gradle\caches\transforms-3\c8e2be1e4f4a0bdc4ae81324a0cdebbc\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\58fa80cb2d948b2fca625c815a231b77\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\58fa80cb2d948b2fca625c815a231b77\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\376495f8abe23921ce529e470d580370\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\376495f8abe23921ce529e470d580370\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3699b00d347d0f41f59f20829034974a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3699b00d347d0f41f59f20829034974a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\93c6c5bfd6f0f94128a2002732b93d79\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\93c6c5bfd6f0f94128a2002732b93d79\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\f75cd419a3966be529e3dd24c2b343f5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\f75cd419a3966be529e3dd24c2b343f5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3ea4b32ed47f1db2338d61a9d724f441\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3ea4b32ed47f1db2338d61a9d724f441\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\77bb0ee330e7f10f83b35d71367125a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\77bb0ee330e7f10f83b35d71367125a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\fee8d4a1f71c2be22528eff30a37bf02\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\fee8d4a1f71c2be22528eff30a37bf02\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f6864b6cc65c1c0aa57d94376f0c3a5d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f6864b6cc65c1c0aa57d94376f0c3a5d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\5b66ba421b5e0355e0bd17b2121e01f2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\5b66ba421b5e0355e0bd17b2121e01f2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\218f9a4ab9d03806da1e2cbce2b79862\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Brandon\.gradle\caches\transforms-3\218f9a4ab9d03806da1e2cbce2b79862\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\c241cef3df823aa0dca352edf3ab15f1\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Brandon\.gradle\caches\transforms-3\c241cef3df823aa0dca352edf3ab15f1\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\4d0229d3bc3d269293710a62743643dc\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\1b0603599e2764e3a487d34acaec9775\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\1b0603599e2764e3a487d34acaec9775\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\47e6e22e92760cb37db8d7c5ec0627c2\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\47e6e22e92760cb37db8d7c5ec0627c2\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\05463d6ddb68f145927c7940a4bc2dd3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\05463d6ddb68f145927c7940a4bc2dd3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\7e4fd39ea714fb8a86e22ea62aa7f5c1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\7e4fd39ea714fb8a86e22ea62aa7f5c1\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\d956747bf361fb94b8647577dd4a2622\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\d956747bf361fb94b8647577dd4a2622\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f13b6da46dbfbaf92e0c1505c8ad5e17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-3\f13b6da46dbfbaf92e0c1505c8ad5e17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\024c00731aba70d6d5fae4a06f85bba6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\024c00731aba70d6d5fae4a06f85bba6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0014a0955407653a5124a4eb18b9b566\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\0014a0955407653a5124a4eb18b9b566\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\ddffabcff20484559420db7505630bdf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\ddffabcff20484559420db7505630bdf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\838883787eb5efe27310906aeab81f12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Brandon\.gradle\caches\transforms-3\838883787eb5efe27310906aeab81f12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\0e334c2a253cd84f2d27a1db3eb23810\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Brandon\.gradle\caches\transforms-3\0e334c2a253cd84f2d27a1db3eb23810\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f5d95c0f6240709d6b69141209e17a15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\f5d95c0f6240709d6b69141209e17a15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\9cb769cdce872cd0a715380a723c14dc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\9cb769cdce872cd0a715380a723c14dc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3fa7e03dc9442cf15362765535ec16a1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\3fa7e03dc9442cf15362765535ec16a1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d019a1adef7f9a5d86a65f9a777292ff\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d019a1adef7f9a5d86a65f9a777292ff\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d65214bd7d421aa5233820bf8c449a56\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Brandon\.gradle\caches\transforms-3\d65214bd7d421aa5233820bf8c449a56\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\Affirm_Android_Takehome_2021\android-take-home-restaurant\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Brandon\.gradle\caches\transforms-3\658192b1618e2432d5f651f4ddd8963b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\fa0ee77840563b358e69e9209e9592d4\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Brandon\.gradle\caches\transforms-3\7bc65819334aeba910424afaade772f7\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
