@@ -22,6 +22,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.affirm.takehome.favorites.FavoritesActivity"
+            android:exported="false"
+            android:label="@string/title_activity_favorites"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.affirm.takehome.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
