@@ -5,7 +5,7 @@ Below were the requirements for this take-home assessment. After completing the 
 - Created a ViewModel and moved all the business logic into it
 - Added Hilt and injected as much as possible within reason
 
-```
+
 # Take Home Assignment
 
 This is an assignment to test you on reading the existing codebase and adding some logic to it.
@@ -59,4 +59,3 @@ A: Yes we'd like to hear your thought!
 
 Q: My emulator's location services don't work!
 A: Use a real device. If you don't have one, make sure you are using an emulator with the play store available. Open the Google Maps app on the emulator to test if location services are working.
-```
