@@ -1,4 +1,4 @@
-# Affirm Take Home Assignment
+# Take Home Assignment
 
 This is an assignment to test you on reading the existing codebase and adding some logic to it.
 
